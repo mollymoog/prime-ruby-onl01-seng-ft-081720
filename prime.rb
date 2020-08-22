@@ -1,7 +1,6 @@
 def prime?(number)
   i = 1
-  range = i...#{number
-  if number %  
+  if number == 0 
     "true"
   end
 end
