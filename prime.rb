@@ -1,6 +1,6 @@
 def prime?(number)
   i = 1
-  ii = number.
+  ii = Integer.sqrt(number)
   if number == 0 
     false
   elsif number == 1 
