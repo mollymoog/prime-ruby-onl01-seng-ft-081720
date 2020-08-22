@@ -5,5 +5,6 @@ def prime?(number)
     range = (start..number-1).to_a
     range.none? do |integer|
       number % integer == 0 
+    end
 end
 end
