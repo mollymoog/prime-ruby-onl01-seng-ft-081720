@@ -1,5 +1,7 @@
 def prime?(number)
-  if number % 0 
+  i = 1
+  range = i...number
+  if number %  
     "true"
   end
 end
