@@ -1,5 +1,6 @@
 def prime?(number)
   i = 1
+  ii = number.
   if number == 0 
     false
   elsif number == 1 
