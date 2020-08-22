@@ -7,6 +7,7 @@ def prime?(number)
     true
   elsif number > 2 
     x = number % ii
+    x
   else  
     true
   end
