@@ -1,3 +1,4 @@
 def prime?(number)
-  if number%
+  if number % == 0 
+    
 end
