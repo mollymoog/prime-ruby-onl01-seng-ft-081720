@@ -4,10 +4,9 @@ def prime?(number)
   if number == 0 
     false
   elsif number == 1 
-    true
-  elsif number > 2 
-    x = number % ii
-    x
+    false
+  elsif number < 3 
+    true 
   else  
     true
   end
