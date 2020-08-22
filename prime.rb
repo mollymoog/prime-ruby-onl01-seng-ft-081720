@@ -2,5 +2,9 @@ def prime?(number)
   i = 1
   if number == 0 
     false
+  elsif number == 1 
+    true
+  elsif number > 2 
+    
   end
 end
